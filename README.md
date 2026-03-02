@@ -56,6 +56,3 @@ Ou, se preferir, use a extensão **Live Server** no VS Code para recarregamento 
 
 Servir como base de estudo e prática para construção de landing pages com HTML/CSS, organização de estilos por módulos e layout responsivo.
 
-## 👩‍💻 Autoria
-
-Projeto desenvolvido por **brangernicole**.
